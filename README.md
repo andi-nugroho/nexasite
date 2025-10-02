@@ -54,7 +54,7 @@ npm run dev
 ```
 
 ## 📦 Project Structure
-
+```bash
 nexasite/
 ├─ src/
 │  ├─ components/      # Reusable UI components
@@ -65,7 +65,7 @@ nexasite/
 ├─ package.json
 ├─ vite.config.ts
 └─ README.md
-
+```
 
 ## 🌍 Deployment
 
